@@ -1,0 +1,7 @@
+name: 552_ip_2
+channels:
+  - conda-forge
+dependencies:
+  - google-cloud-bigquery-core
+  - pandas
+  - python=3.11
